@@ -1,0 +1,3 @@
+   else{
+        printf("Invalid Char");
+    }
