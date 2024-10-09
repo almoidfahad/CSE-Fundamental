@@ -1,31 +1,55 @@
 #include <stdio.h>
 int main(){
 
-    // Week 2
-
-    //Problem 2
-    int a,b,c;
-    long long int d;
-    scanf("%d %d %d, %lld", &a,&b,&c,&d);
-
-    for(int i = 1; i<=1;i++){
-        for(int j = 1; j<=4; j++){
-            long long int d;
-            if((-10^9 <= a && b && c<=10^9) && (-10^18 <= d) && (10^18>=d)){
-                d = a+b*c;
-                // printf("%d %d %d, %lld", a, b, c, b);
-                printf("Yes");
-
-            }
-            else{
-                printf("No");
-            }
+  
 
 
-        }
+    //Problem 4
+    
+    long int n;
+    scanf("%ld", &n);
+
+    for(int i=2; i<= n;i+=2){
+        printf("%d\n", i);
     }
 
 
+
+
+    //Problem 3 
+    // int n;
+    // scanf("%d",&n);
+
+    // for (int i=1; i<=n; i++){
+    //     if(n%i==0){
+    //         printf("%d \n",i);
+    //     }
+        
+    // }
+
+
+    //Problem 2
+    // long long int a,b,c,d;
+    // scanf("%lld %lld %lld %lld", &a, &b, &c,&d);
+    
+    // long long int x1= (a * b) - c;
+    // long long int x2= (a * b) + c;
+    // long long int x3= a + (b * c);
+    // long long int x4= a - (b * c);
+    // long long int x5= (a + b ) - c;
+    // long long int x6= (a - b) + c;
+        
+    
+    // int count=0;
+    // if(x1 == d || x2 == d || x3 == d ||   x4 == d || x5 == d || x6 == d ){
+    //     count=1;
+    // }
+    // if(count==1){
+    //     printf("YES");
+    // }
+    // else{
+    //     printf("NO");
+    // }
 
 
 
