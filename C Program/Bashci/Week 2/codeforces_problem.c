@@ -1,22 +1,49 @@
 #include <stdio.h>
 int main(){
 
+
+
+
+    //Problem 5 
+    //Lucky Number
+
+    int n;
+    scanf("%d", &n);
+
+    int a= n % 10;
+    int b= n / 10;
+    b = b%10;
+
+    if(b != 0 &&(a%b==0 || b%a==0 )){
+        printf("YES");
+    }
+    else{
+        printf("NO");
+    }
+    
   
 
 
+ 
+
     //Problem 4
-    
-    long int n;
-    scanf("%ld", &n);
+    //even number
 
-    for(int i=2; i<= n;i+=2){
-        printf("%d\n", i);
-    }
+    // long int n;
+    // scanf("%ld", &n);
 
-
-
+    //     if(n<2){
+    //         printf("-1");
+    //     }
+    //     else{
+    //         for(int i=2; i<= n;i+=2){
+    //             printf("%ld\n", i);
+    //         }
+    //     }
+       
 
     //Problem 3 
+
     // int n;
     // scanf("%d",&n);
 
@@ -68,4 +95,22 @@ int main(){
 
     //     }
     // }
+
+
+
+
+
+
+   //Problem 5
+    // int n;
+    // scanf("%d", &n);
+
+    // int a= n % 10;
+    // int b= n/10;
+
+    // if(){
+
+    // }
+    return 0;
+
 }
