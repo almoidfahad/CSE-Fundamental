@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <limits.h>
 int main(){
 
     // double a[5];
@@ -44,8 +45,27 @@ int main(){
     // double avg = sum / n;
     // printf("%.2lf",avg); 
 
-    int n;
-    scanf("%d",n);
+   int n;
+scanf("%d", &n);
 
-    int  a[n];
+int a[n];
+
+for(int i=0 ; i<n;i++){
+    scanf("%d", &a[i]);
+}
+
+int min = INT_MAX, max  = INT_MIN;
+
+
+for(int i=0; i<n; i++){
+    if(a[i]<min){
+        min = a[i];
+    }
+    if(a[i] > max){
+        max = a[i];
+    }
+}
+printf("Minium= %d, Maximum= %d",min , max );
+
+
 }
