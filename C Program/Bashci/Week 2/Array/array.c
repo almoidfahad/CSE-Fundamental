@@ -23,26 +23,29 @@ int main(){
 
     //Sum and Average of an array Element
 
-    int n;
-    scanf("%d",&n);
+    // int n;
+    // scanf("%d",&n);
 
-    int a[n];
-    for(int i = 0; i< n;i++){
-        scanf("%d", &a[i]);
-    } 
+    // int a[n];
+    // for(int i = 0; i< n;i++){
+    //     scanf("%d", &a[i]);
+    // } 
 
-    int sum = 0 ;
+    // int sum = 0 ;
     
-    for(int i= 0; i < n;i++){
-        //Every index value can do sum
-        // sum = sum+ a[i];
-        sum += a[i];
-        // printf("%d\n", sum);
-    }
-    printf("%d\n", sum);
+    // for(int i= 0; i < n;i++){
+    //     //Every index value can do sum
+    //     // sum = sum+ a[i];
+    //     sum += a[i];
+    //     // printf("%d\n", sum);
+    // }
+    // printf("%d\n", sum);
 
-    double avg = sum / n;
-    printf("%.2lf",avg); 
+    // double avg = sum / n;
+    // printf("%.2lf",avg); 
 
+    int n;
+    scanf("%d",n);
 
+    int  a[n];
 }
