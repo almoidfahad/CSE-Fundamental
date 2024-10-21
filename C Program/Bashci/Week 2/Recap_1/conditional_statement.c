@@ -1,5 +1,19 @@
 #include <stdio.h>
 int main(){
+    long long int a, b , k;
+    scanf("%lld %lld %lld", &a , &b , &k);
+
+    
+
+
+
+
+
+
+
+
+
+    // printf("%lld %lld %lld", a, b ,k);
 
 }    
 //=========================================================================
