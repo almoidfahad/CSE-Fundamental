@@ -1,8 +1,9 @@
 #include <stdio.h>
 #include<string.h>
 int main(){
-    char str[10] = "abc\0 d";
+    char str[10] = "abc \0 d";
 
+    //work in one line
     int length = strlen(str);
 
 
