@@ -1,14 +1,20 @@
 #include<stdio.h>
 int main(){
 
-    char str[15];
-    fgets(str, sizeof(str),stdin);
-    // printf("%s", str);
-    fputs(str, stdout);
-    // puts(str);
+
+   char str[20];
+    scanf("%s",&str);
+    printf("%s",str);
+    
+  //   return 0;
+    // char str[8];
+    // fgets(str, sizeof(str),stdin);
+    // // printf("%s", str);
+    // fputs(str, stdout);
+    // // puts(str);
 
 /*
-        char str[15];
+        char str[15]; 
     // scanf("%[^\n]s", str);
     fgets(str, sizeof(str),stdin);
     // printf("%s", str);
