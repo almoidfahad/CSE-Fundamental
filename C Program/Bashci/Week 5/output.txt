@@ -1,7 +1,3 @@
-Before
-Function Called
-70
-Function Called
-780
-After
-PI resutl is: 3.141590
+Lower
+Upper
+Upper
