@@ -1,6 +1,7 @@
-Bfor
-Function called
-40
-Function called
-73
+Before
+Function Called
+70
+Function Called
+780
 After
+PI resutl is: 3.141590
