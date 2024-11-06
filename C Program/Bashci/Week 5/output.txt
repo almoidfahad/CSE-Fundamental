@@ -1,3 +1,20 @@
-Func: 6422300 6422296
-Main: 6422300 6422296
-6 5
+Befor function call in main
+1
+Before function call, current X = 1
+2
+Before function call, current X = 2
+3
+Before function call, current X = 3
+4
+Before function call, current X = 4
+5
+Before function call, current X = 5
+6
+Before function call, current X = 6
+After function call, Current X = 6
+After function call, Current X = 5
+After function call, Current X = 4
+After function call, Current X = 3
+After function call, Current X = 2
+After function call, Current X = 1
+After function call in main
