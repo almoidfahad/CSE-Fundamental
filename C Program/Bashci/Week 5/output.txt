@@ -1,20 +1,10 @@
-Befor function call in main
-1
-Before function call, current X = 1
-2
-Before function call, current X = 2
-3
-Before function call, current X = 3
-4
-Before function call, current X = 4
-5
-Before function call, current X = 5
+10
+9
+8
+7
 6
-Before function call, current X = 6
-After function call, Current X = 6
-After function call, Current X = 5
-After function call, Current X = 4
-After function call, Current X = 3
-After function call, Current X = 2
-After function call, Current X = 1
-After function call in main
+5
+4
+3
+2
+1
