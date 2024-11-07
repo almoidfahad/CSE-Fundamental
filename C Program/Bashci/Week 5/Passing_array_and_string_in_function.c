@@ -50,3 +50,15 @@ int main(){
     length(c);
     makeFirstCahrUpper(c);
 }
+
+/*
+// Output:
+
+First Function:Sum All index value
+36
+Second Function:Find length charcter strig
+11
+Third Function: Make First cahrecter upper case
+Programming
+
+*/
