@@ -19,3 +19,5 @@ int main(){
     
     return 0;
 }
+
+//output will be not showing. becose when return fun then deleted 
