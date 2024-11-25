@@ -24,5 +24,5 @@ int main(){
         cout<< b[i]<<" ";
     }
     
-    
+    return 0;
 }

@@ -1,1 +1,7 @@
-1 49 2 40 50 
+0x61ff08
+0x61ff08
+Befor deferencing
+10
+After deferencing
+15
+15
