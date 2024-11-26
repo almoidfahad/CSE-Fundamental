@@ -24,9 +24,6 @@ int main(){
         cout<<ar1[i]<<endl;
     }
     
-    
-
-
 
     return 0;
 }
