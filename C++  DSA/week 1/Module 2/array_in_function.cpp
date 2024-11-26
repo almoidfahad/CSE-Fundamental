@@ -21,7 +21,6 @@ int* func(){
 
 
 
-
 int main(){
 
     int* main_arr = func();
