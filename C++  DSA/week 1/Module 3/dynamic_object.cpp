@@ -27,10 +27,10 @@ class Student
 int main(){
 
     Student rahim(45, 5, 3.3);
-    //   new Student;
+    Student* karim= new Student(10, 5, 4.56);
 
-    // cout<<rahim.roll <<" " << rahim.cls << " " << rahim.gpa <<endl;
-    // cout<<karim.roll <<" " << karim.cls << " " << karim.gpa <<endl;
+    cout<<rahim.roll <<" " << rahim.cls << " " << rahim.gpa <<endl;
+    cout<<karim->roll <<" " << (*karim).cls << " " << (*karim).gpa <<endl;
 
 
     return 0;
