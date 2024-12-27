@@ -1,0 +1,220 @@
+
+
+========================================================
+
+Class: 9 | Subject: Digital
+
+Roll: 1   Mark : 85  Percentage: 59
+Roll: 2   Mark : 65  Percentage: 45
+Roll: 3   Mark : 65  Percentage: 45
+Roll: 4   Mark : 76  Percentage: 53
+Roll: 5   Mark : 56  Percentage: 39
+Roll: 6   Mark : 65  Percentage: 45
+Roll: 7   Mark : 59  Percentage: 41
+Roll: 8   Mark : 55  Percentage: 38
+Roll: 9   Mark : 38  Percentage: 26
+Roll: 10   Mark : 59  Percentage: 41
+Roll: 11   Mark : 66  Percentage: 46
+Roll: 12   Mark : 59  Percentage: 41
+Roll: 13   Mark : 50  Percentage: 35
+Roll: 14   Mark : 52  Percentage: 36
+Roll: 15   Mark : 54  Percentage: 37
+Roll: 16   Mark : 59  Percentage: 41
+Roll: 17   Mark : 60  Percentage: 42
+Roll: 18   Mark : 61  Percentage: 42
+Roll: 19   Mark : 51  Percentage: 35
+Roll: 20   Mark : 51  Percentage: 35
+Roll: 21   Mark : 33  Percentage: 23
+Roll: 22   Mark : 25  Percentage: 17
+Roll: 23   Mark : 23  Percentage: 16
+Roll: 24   Mark : 35  Percentage: 24
+Roll: 25   Mark : 33  Percentage: 23
+Roll: 26   Mark : 72  Percentage: 50
+Roll: 27   Mark : 61  Percentage: 42
+Roll: 28   Mark : 43  Percentage: 30
+Roll: 29   Mark : 73  Percentage: 51
+Roll: 30   Mark : 61  Percentage: 42
+Roll: 31   Mark : 25  Percentage: 17
+Roll: 32   Mark : 61  Percentage: 42
+Roll: 33   Mark : 61  Percentage: 42
+Roll: 34   Mark : 33  Percentage: 23
+Roll: 35   Mark : 43  Percentage: 30
+Roll: 36   Mark : 44  Percentage: 30
+Roll: 37   Mark : 61  Percentage: 42
+Roll: 38   Mark : 43  Percentage: 30
+Roll: 39   Mark : 53  Percentage: 37
+Roll: 40   Mark : 55  Percentage: 38
+Roll: 41   Mark : 65  Percentage: 45
+Roll: 42   Mark : 34  Percentage: 23
+Roll: 43   Mark : 33  Percentage: 23
+Roll: 44   Mark : 38  Percentage: 26
+Roll: 45   Mark : 33  Percentage: 23
+Roll: 46   Mark : 26  Percentage: 18
+Roll: 47   Mark : 43  Percentage: 30
+Roll: 48   Mark : 50  Percentage: 35
+Roll: 49   Mark : 44  Percentage: 30
+
+
+========================================================
+
+Class: 7 | Subject: Bangla
+
+Roll: 1   Mark : 58  Percentage: 40
+Roll: 2   Mark : 20  Percentage: 14
+Roll: 3   Mark : 78  Percentage: 54
+Roll: 4   Mark : 25  Percentage: 17
+Roll: 5   Mark : 11  Percentage: 7
+Roll: 6   Mark : 36  Percentage: 25
+Roll: 7   Mark : 29  Percentage: 20
+Roll: 8   Mark : 65  Percentage: 45
+Roll: 9   Mark : 21  Percentage: 14
+Roll: 10   Mark : 11  Percentage: 7
+Roll: 11   Mark : 9  Percentage: 6
+Roll: 12   Mark : 11  Percentage: 7
+Roll: 13   Mark : 24  Percentage: 16
+Roll: 14   Mark : 33  Percentage: 23
+Roll: 15   Mark : 66  Percentage: 46
+Roll: 16   Mark : 22  Percentage: 15
+Roll: 17   Mark : 20  Percentage: 14
+Roll: 18   Mark : 43  Percentage: 30
+Roll: 19   Mark : 26  Percentage: 18
+Roll: 20   Mark : 22  Percentage: 15
+Roll: 21   Mark : 15  Percentage: 10
+Roll: 22   Mark : 13  Percentage: 9
+Roll: 23   Mark : 9  Percentage: 6
+Roll: 24   Mark : 60  Percentage: 42
+Roll: 25   Mark : 28  Percentage: 19
+Roll: 26   Mark : 20  Percentage: 14
+Roll: 27   Mark : 27  Percentage: 18
+Roll: 28   Mark : 1  Percentage: 0
+Roll: 29   Mark : 46  Percentage: 32
+Roll: 30   Mark : 30  Percentage: 21
+Roll: 31   Mark : 29  Percentage: 20
+Roll: 32   Mark : 21  Percentage: 14
+Roll: 33   Mark : 23  Percentage: 16
+Roll: 34   Mark : 8  Percentage: 5
+Roll: 35   Mark : 39  Percentage: 27
+Roll: 36   Mark : 13  Percentage: 9
+Roll: 37   Mark : 27  Percentage: 18
+Roll: 38   Mark : 3  Percentage: 2
+Roll: 39   Mark : 7  Percentage: 4
+Roll: 40   Mark : 13  Percentage: 9
+Roll: 41   Mark : 75  Percentage: 52
+Roll: 42   Mark : 12  Percentage: 8
+Roll: 43   Mark : 3  Percentage: 2
+Roll: 44   Mark : 3  Percentage: 2
+Roll: 45   Mark : 6  Percentage: 4
+Roll: 46   Mark : 35  Percentage: 24
+Roll: 47   Mark : 4  Percentage: 2
+Roll: 48   Mark : 9  Percentage: 6
+Roll: 49   Mark : 3  Percentage: 2
+Roll: 50   Mark : 12  Percentage: 8
+Roll: 51   Mark : 24  Percentage: 16
+Roll: 52   Mark : 29  Percentage: 20
+
+
+========================================================
+
+Class: 8 | Subject: Digital
+
+Roll: 1   Mark : 49  Percentage: 34
+Roll: 2   Mark : 41  Percentage: 28
+Roll: 3   Mark : 46  Percentage: 32
+Roll: 4   Mark : 42  Percentage: 29
+Roll: 5   Mark : 40  Percentage: 28
+Roll: 6   Mark : 45  Percentage: 31
+Roll: 7   Mark : 51  Percentage: 35
+Roll: 8   Mark : 35  Percentage: 24
+Roll: 9   Mark : 28  Percentage: 19
+Roll: 10   Mark : 34  Percentage: 23
+Roll: 11   Mark : 46  Percentage: 32
+Roll: 12   Mark : 18  Percentage: 12
+Roll: 13   Mark : 23  Percentage: 16
+Roll: 14   Mark : 20  Percentage: 14
+Roll: 15   Mark : 36  Percentage: 25
+Roll: 16   Mark : 25  Percentage: 17
+Roll: 17   Mark : 18  Percentage: 12
+Roll: 18   Mark : 23  Percentage: 16
+Roll: 19   Mark : 28  Percentage: 19
+Roll: 20   Mark : 34  Percentage: 23
+Roll: 21   Mark : 20  Percentage: 14
+Roll: 22   Mark : 28  Percentage: 19
+Roll: 23   Mark : 17  Percentage: 11
+Roll: 24   Mark : 40  Percentage: 28
+Roll: 25   Mark : 28  Percentage: 19
+Roll: 26   Mark : 25  Percentage: 17
+Roll: 27   Mark : 14  Percentage: 9
+Roll: 28   Mark : 19  Percentage: 13
+Roll: 29   Mark : 17  Percentage: 11
+Roll: 30   Mark : 3  Percentage: 2
+Roll: 31   Mark : 12  Percentage: 8
+Roll: 32   Mark : 18  Percentage: 12
+Roll: 33   Mark : 17  Percentage: 11
+Roll: 34   Mark : 46  Percentage: 32
+Roll: 35   Mark : 23  Percentage: 16
+Roll: 36   Mark : 15  Percentage: 10
+Roll: 37   Mark : 23  Percentage: 16
+Roll: 38   Mark : 23  Percentage: 16
+Roll: 39   Mark : 34  Percentage: 23
+Roll: 40   Mark : 33  Percentage: 23
+Roll: 41   Mark : 5  Percentage: 3
+Roll: 42   Mark : 16  Percentage: 11
+Roll: 43   Mark : 6  Percentage: 4
+Roll: 44   Mark : 8  Percentage: 5
+Roll: 45   Mark : 21  Percentage: 14
+
+
+========================================================
+
+Class: 7 | Subject: Digital
+
+Roll: 1   Mark : 34  Percentage: 23
+Roll: 2   Mark : 30  Percentage: 21
+Roll: 3   Mark : 66  Percentage: 46
+Roll: 4   Mark : 28  Percentage: 19
+Roll: 5   Mark : 18  Percentage: 12
+Roll: 6   Mark : 50  Percentage: 35
+Roll: 7   Mark : 30  Percentage: 21
+Roll: 8   Mark : 54  Percentage: 37
+Roll: 9   Mark : 48  Percentage: 33
+Roll: 10   Mark : 13  Percentage: 9
+Roll: 11   Mark : 26  Percentage: 18
+Roll: 12   Mark : 20  Percentage: 14
+Roll: 13   Mark : 18  Percentage: 12
+Roll: 14   Mark : 30  Percentage: 21
+Roll: 15   Mark : 37  Percentage: 25
+Roll: 16   Mark : 41  Percentage: 28
+Roll: 17   Mark : 27  Percentage: 18
+Roll: 18   Mark : 29  Percentage: 20
+Roll: 19   Mark : 30  Percentage: 21
+Roll: 20   Mark : 26  Percentage: 18
+Roll: 21   Mark : 28  Percentage: 19
+Roll: 22   Mark : 33  Percentage: 23
+Roll: 23   Mark : 28  Percentage: 19
+Roll: 24   Mark : 12  Percentage: 8
+Roll: 25   Mark : 43  Percentage: 30
+Roll: 26   Mark : 34  Percentage: 23
+Roll: 27   Mark : 34  Percentage: 23
+Roll: 28   Mark : 25  Percentage: 17
+Roll: 29   Mark : 21  Percentage: 14
+Roll: 30   Mark : 32  Percentage: 22
+Roll: 31   Mark : 25  Percentage: 17
+Roll: 32   Mark : 15  Percentage: 10
+Roll: 33   Mark : 30  Percentage: 21
+Roll: 34   Mark : 10  Percentage: 7
+Roll: 35   Mark : 35  Percentage: 24
+Roll: 36   Mark : 17  Percentage: 11
+Roll: 37   Mark : 12  Percentage: 8
+Roll: 38   Mark : 14  Percentage: 9
+Roll: 39   Mark : 16  Percentage: 11
+Roll: 40   Mark : 57  Percentage: 39
+Roll: 41   Mark : 11  Percentage: 7
+Roll: 42   Mark : 12  Percentage: 8
+Roll: 43   Mark : 6  Percentage: 4
+Roll: 44   Mark : 29  Percentage: 20
+Roll: 45   Mark : 18  Percentage: 12
+Roll: 46   Mark : 14  Percentage: 9
+Roll: 47   Mark : 9  Percentage: 6
+Roll: 48   Mark : 37  Percentage: 25
+Roll: 49   Mark : 13  Percentage: 9
+Roll: 50   Mark : 28  Percentage: 19
